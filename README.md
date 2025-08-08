@@ -1,7 +1,5 @@
 # Wipro_Quizappmonorepo
 
-# Wipro QuizApp MonoRepo
-
 This project is a Spring Boot-based Quiz Application with full CRUD operations, score calculation logic, and REST APIs.
 
 ## Features
